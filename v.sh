@@ -1,5 +1,5 @@
-MESAJ="YarasaUserBot'un avtomatik qurulumu."
-MESAJ+="\nTelegram: @YarasaBots"
+MESAJ="N Σ O N'un avtomatik qurulumu."
+MESAJ+="\nTelegram: @NeonUserBot"
 pkg update -y
 apt updete 
 apt upgrade
